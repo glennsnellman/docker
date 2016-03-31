@@ -1,0 +1,17 @@
+body
+{
+background: red;
+transition: background 1s,
+}
+.knapp
+{
+  position: absolute;
+  left: 45%;
+  top: 50%;
+  width: 200px;
+  text-align: center;
+}
+.toggle
+{
+  background: blue;
+}
